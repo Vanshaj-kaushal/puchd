@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/puchd/static/css/main.1c8c374e.css",
+    "main.js": "/puchd/static/js/main.d64bad29.js",
+    "static/js/787.5f2190bf.chunk.js": "/puchd/static/js/787.5f2190bf.chunk.js",
+    "static/media/panjab-university.svg": "/puchd/static/media/panjab-university.1316a14d7f139f541d8273f63d662a01.svg",
+    "static/media/search_light.png": "/puchd/static/media/search_light.7526032a7df54e87da8c.png",
+    "index.html": "/puchd/index.html",
+    "static/media/home_light.svg": "/puchd/static/media/home_light.7c7322fa6ac8e341a71f9be22c73cf04.svg",
+    "main.1c8c374e.css.map": "/puchd/static/css/main.1c8c374e.css.map",
+    "main.d64bad29.js.map": "/puchd/static/js/main.d64bad29.js.map",
+    "787.5f2190bf.chunk.js.map": "/puchd/static/js/787.5f2190bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c8c374e.css",
+    "static/js/main.d64bad29.js"
+  ]
+}
